@@ -27,7 +27,7 @@ A full-stack Node.js + React.js application to generate configurable PDF reports
 git clone https://github.com/your-username/pdf-report-app.git
 cd pdf-report-app
 ```
-
+NOTE: Use node greater than v20
 ---
 
 ### 2. Backend Setup
@@ -143,4 +143,4 @@ exports.classificationRanges = {
 
 ## 📬 Contact
 
-Built by [Sohel Bepari].  
+Built by [Sohel B].  
